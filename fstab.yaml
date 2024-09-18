@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe.sharepoint.com/:f:/r/sites/EDSStorefrontTest/Shared%20Documents/Nastja%20Commerce%20EDS%20Storefront%20Test?csf=1&web=1&e=3Ef7jp
 
 folders:
   /products/: /products/default
